@@ -1,0 +1,8 @@
+->implementare a unei baze de date care calculeaza pretul /h la diverse operatiuni de la un servie
+
+
+task001:
+
+a.1 creare db pentru intrarea masinilor in service si opreatiunea executata si inserarea de facturi totale
+a.2 creare tabel cu preturi /h
+a.3
